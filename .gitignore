@@ -1,0 +1,48 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.venv/
+ENV/
+.ENV/
+
+# VS Code settings
+.vscode/
+
+# IDE or editor-specific files
+.idea/
+*.swp
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Python distribution packages
+*.egg
+*.egg-info
+dist/
+build/
+*.bak
+
+# Test output
+*.log
+*.pot
+*.mo
+
+# Coverage reports
+.coverage
+.coverage.*
+nosetests.xml
+tox.ini
+*.coveragerc
+
+# PyInstaller
+*.spec
+
+# Flask/Django
+instance/
+*.db
+*.sqlite3
