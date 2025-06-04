@@ -28,6 +28,7 @@ Bayes’ Theorem describes how to update our belief in a hypothesis H after seei
 - P(H∣E) is the **posterior**: the updated probability of the hypothesis given the evidence.
 
 In our scenario, H is the hypothesis that the car is behind a given door, and E is the evidence: the host opened a specific other door. We use Bayes’ Theorem to compute 
+
 $$
 P(H∣E)
 $$
@@ -84,6 +85,7 @@ The probability of the win rate being in a range of ∆ = 30 is 95.05%
 ```
 
 If the `-rdm` flag was present, it might look something like:
+
 ```
 999. Guest switched.. Switch: True
 Wins: 501, Losses: 498
