@@ -28,10 +28,7 @@ Bayes’ Theorem describes how to update our belief in a hypothesis H after seei
 - P(H∣E) is the **posterior**: the updated probability of the hypothesis given the evidence.
 
 In our scenario, H is the hypothesis that the car is behind a given door, and E is the evidence: the host opened a specific other door. We use Bayes’ Theorem to compute 
-
-$$
-P(H∣E)
-$$
+$P(H∣E)$
 which is the probability that the car is behind a specific door given the host's action. Applying the formula for each possible door, we find the switched-to door has a 2/3 chance of hiding the car, while the original choice retains its initial 1/3 chance.
 
 So the two camps agree. But even with the math right in front of us, it still just doesn't seem correct. 
