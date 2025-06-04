@@ -15,6 +15,7 @@ There are two main camps in the statistical world: the Frequentists, and the Bay
 
 Bayesians, on the other hand, use Bayes theorem to determine the probability of a possibility.
 It looks something like this: 
+
 $$
 P(H \mid E) = \frac{P(E \mid H) \cdot P(H)}{P(E)}
 $$
